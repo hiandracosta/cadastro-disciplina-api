@@ -29,3 +29,12 @@ Envie um DELETE para `http://localhost:3000/registros` para apagar todos os regi
 4. Digite `npm start`
 
 Pronto! A API estará rodando em `http://localhost:3000` 
+
+## Desenvolvido pelo grupo :
+
+- LUIS CARLOS RODRIGUES SILVA  
+- IGOR GABRIEL SOARES 
+- HIANDRA ALVES COSTA
+- MARCOS AURELIO SEGUNDO
+- MARCOS GABRIEL
+- CRISTIAN VIEIRA SILVA LINS
